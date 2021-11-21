@@ -10,7 +10,6 @@
     "test": "ionic test",
     "lint": "ionic lint",
     "e2e": "ionic e2e"
-
   },
   "private": true,
   "dependencies": {
